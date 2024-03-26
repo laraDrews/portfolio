@@ -3,7 +3,7 @@ import React from 'react';
 export const Linguagens = () => {
   return (
     <div>
-      <h1>Página Inicial</h1>      
+      <h1>Página ii</h1>      
     </div>
   );
   };
